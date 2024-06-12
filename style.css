@@ -1,0 +1,32 @@
+body
+{
+    text-align: center;
+    background-color:#000;
+    color:white;    
+}
+
+
+
+.line {
+    height: 6px;
+    background-color: #ffffff;
+    width: 70px;
+    margin: 8px auto;
+}
+
+
+
+
+#videos iframe
+{
+    scale: 250%;
+}
+html {
+    scroll-behavior: smooth;
+
+}
+.my_nav_bar {
+     position:sticky;
+      top:0;
+       z-index:99999;
+}
